@@ -17,6 +17,7 @@ Pyramid - Start at the bottom
 6 - Remember
 
 **RETRO**
+
 What went well?
 What didnt go so well?
 What you want to improve next week?
