@@ -48,7 +48,7 @@ Gemfile
 ## Week Kick Off ##
 Week 2 Goals
 
-Object Oriented -> classes
+* Object Oriented -> classes
                 -> unit tests
                 -> principles : delegation
                                 encapsulation
@@ -56,7 +56,7 @@ Object Oriented -> classes
                                 cohesion / SRP
                                 polymorphism
                 focus on WHY? (Why do these 2 things work like this togheter?)
-TDD -> mocking/isolation testing (find out more about mocking this week)
+* TDD -> mocking/isolation testing (find out more about mocking this week)
     -> coverage test
-Review
-Week 1 skills -> Pairing
+* Review
+* Week 1 skills -> Pairing
