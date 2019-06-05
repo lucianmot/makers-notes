@@ -33,3 +33,9 @@ S - specific
 K - kind
 
 Be a Light, try to shed a light on the situation.
+
+Non Violent Communication
+Obseration - facts
+Feeling - I feel
+Need
+Request - would you be willing to?
