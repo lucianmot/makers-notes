@@ -7,8 +7,8 @@ receiving information about your work or other person work
 ## How can we make feedback easier? ##
 * shift your perspective - feedback isn't negative or positive, feedback is just feedback
 * empowered receiver - the receiver is the gatekeeper, receiver improves his understanding of himself
-* know thyself -> truth triggers - seems wrong or off target(we all have blindspots)
-               -> relationship triggers - something about our relationship with the person
+* know thyself -> truth triggers - seems wrong or off target(we all have blindspots)\
+               -> relationship triggers - something about our relationship with the person\
                -> identity triggers - undermines how we see ourselves
 * understand feedback
 * use a framework
