@@ -20,7 +20,7 @@ Step 1: "Just like me, this person is seeking happiness in their life."\
 Step 2: "Just like me, this person is trying to avoid suffering in their life."\
 Step 3: "Just like me, this person has known sadness, loneliness and despair."\
 Step 4: "Just like me, this person is seeking to fill their needs."\
-Step 5: "Just like me, this person is learning about life."\
+Step 5: "Just like me, this person is learning about life."
 
 # Metta Bhavana #
 
