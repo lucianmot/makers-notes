@@ -23,4 +23,4 @@ Debugging Process
 -> Talking throug hwhat happenes in the code -> make sure you all get the code\
 -> Customize your IDE editor\
 -> read the user stories/requirements\
--> print around the line with the problem\
+-> print around the line with the problem
